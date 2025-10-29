@@ -26,7 +26,7 @@ This project implements a 32-bit serial adder that processes binary numbers one 
 
 ## 📁 File Structure
 
-### Source Files (`/src/verilog/`)
+### Source Files (`/src/design/`)
 - `d_flip_flop.v` - Basic D flip-flop with reset
 - `full_adder.v` - 1-bit full adder logic
 - `PISOreg.v` - Parallel-In-Serial-Out shift register
