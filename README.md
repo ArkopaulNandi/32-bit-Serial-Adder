@@ -38,9 +38,6 @@ This project implements a 32-bit serial adder that processes binary numbers one 
 ### Testbench (`/src/testbench/`)
 - `Serial_adder_tb.v` - Comprehensive test suite
 
-### Constraints (`/constraints/`)
-- `zynq7000_constraints.xdc` - Timing and pin constraints for Zynq-7000
-
 ## ⚙️ Specifications
 
 ### Performance
