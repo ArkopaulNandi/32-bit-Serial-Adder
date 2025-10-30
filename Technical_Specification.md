@@ -121,8 +121,3 @@ The 32-bit serial adder performs binary addition by processing two 32-bit operan
 - Pipelined operation for higher throughput
 - Error detection/correction
 - Performance monitoring
-
-## 9. Revision History
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | [Date] | Initial release |
